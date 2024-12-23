@@ -56,3 +56,6 @@ build/
 *.tmp
 *.bak
 *.~*
+
+# Ignore the .idea folder
+.idea/
